@@ -36,3 +36,4 @@ roster=CrewRoster() #Empty Crew roster created
 
     # roster.remove_member("Alice")
     # roster.list_crew()
+weeeeeee
